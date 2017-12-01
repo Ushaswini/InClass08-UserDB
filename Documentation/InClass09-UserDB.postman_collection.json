@@ -1,0 +1,44 @@
+{
+	"info": {
+		"name": "InClass09-UserDB",
+		"_postman_id": "54bdc85b-ac13-8dda-aabf-8742871f11b4",
+		"description": "",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json"
+	},
+	"item": [
+		{
+			"name": "UserDB",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"body": {},
+				"url": {
+					"raw": "userdb.azurewebsites.net/api/UserData?index=1&sort=gender",
+					"host": [
+						"userdb",
+						"azurewebsites",
+						"net"
+					],
+					"path": [
+						"api",
+						"UserData"
+					],
+					"query": [
+						{
+							"key": "index",
+							"value": "1",
+							"equals": true
+						},
+						{
+							"key": "sort",
+							"value": "gender",
+							"equals": true
+						}
+					]
+				},
+				"description": ""
+			},
+			"response": []
+		}
+	]
+}
