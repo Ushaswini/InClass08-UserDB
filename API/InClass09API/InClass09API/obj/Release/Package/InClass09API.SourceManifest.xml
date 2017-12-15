@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<sitemanifest>
+  <IisApp path="C:\Code\ITCS-6010-Submissions\InClass09-UserDB\API\InClass09API\InClass09API\obj\Release\Package\PackageTmp" />
+  <setAcl path="C:\Code\ITCS-6010-Submissions\InClass09-UserDB\API\InClass09API\InClass09API\obj\Release\Package\PackageTmp" setAclResourceType="Directory" />
+  <setAcl path="C:\Code\ITCS-6010-Submissions\InClass09-UserDB\API\InClass09API\InClass09API\obj\Release\Package\PackageTmp" setAclUser="anonymousAuthenticationUser" setAclResourceType="Directory" />
+</sitemanifest>

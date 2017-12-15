@@ -278,6 +278,7 @@
     <Content Include="Areas\HelpPage\Views\Help\DisplayTemplates\ApiGroup.cshtml" />
     <Content Include="Areas\HelpPage\Views\Help\Api.cshtml" />
     <Content Include="ApplicationInsights.config" />
+    <None Include="Properties\PublishProfiles\InClass09 - Web Deploy.pubxml" />
     <None Include="Properties\PublishProfiles\UserDB - Web Deploy.pubxml" />
     <None Include="Scripts\jquery-1.10.2-vsdoc.js" />
     <Content Include="Scripts\jquery-1.10.2.js" />

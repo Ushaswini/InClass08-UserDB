@@ -13,9 +13,10 @@
 				"header": [],
 				"body": {},
 				"url": {
-					"raw": "userdb.azurewebsites.net/api/UserData?index=1&sort=gender",
+					"raw": "http://inclass09.azurewebsites.net/api/UserData?index=1&sort=2",
+					"protocol": "http",
 					"host": [
-						"userdb",
+						"inclass09",
 						"azurewebsites",
 						"net"
 					],
@@ -31,7 +32,7 @@
 						},
 						{
 							"key": "sort",
-							"value": "gender",
+							"value": "2",
 							"equals": true
 						}
 					]

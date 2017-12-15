@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/sort_by_firstName"
+        android:title="@string/first_name" />
+    <item android:id="@+id/sort_by_lastName"
+        android:title="@string/last_name" />
+    <item android:id="@+id/sort_by_gender"
+        android:title="@string/gender" />
+
+</menu>
